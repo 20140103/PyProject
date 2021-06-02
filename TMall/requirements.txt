@@ -25,7 +25,7 @@ requests==2.18.4
 singledispatch==3.4.0.3
 six==1.10.0
 typing==3.6.6
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.2.0
 wrapcache==1.0.8
 wrapt==1.10.11
